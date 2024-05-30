@@ -1,0 +1,33 @@
+Integrantes:
+Gerson Antonio Vasquez Hernandez VH22004
+Karina Elizabeth Alvarez Alfaro AA2207
+Marlon Steed Domínguez Cornejo DC22006
+Daniela Alexandra Argumedo Cruz AC22065
+
+
+
+Ingreso de login
+Correo:
+1-maycol@gmail.com
+2-carlos@gmail.com
+3-crespin@gmail.com
+4-nelson@gmail.com
+5-elena@gmail.com
+6-carmen@gmail.com
+7-claudia@gmail.com
+8-emanuel@gmail.com
+9-marlon@gmail.com
+10-sarai@gmail.com
+
+
+contraseña:
+1-maycol
+2-crespin
+3-carlos
+4-jose
+5-elena
+6-carmen
+7-claudia
+8-emanuel
+9-marlon
+10-genesis
